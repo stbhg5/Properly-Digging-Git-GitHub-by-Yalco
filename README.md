@@ -7,6 +7,11 @@
     <a href="https://stbhg5.tistory.com/1240">Git을 배워야 하는 이유</a><br/>
     <br/><br/>
 
+<h2>2. Git 시작하기<h2/>
+    <a href="https://stbhg5.tistory.com/1244">설치 및 설정 (Windows)</a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
