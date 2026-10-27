@@ -12,7 +12,7 @@
     <a href="https://stbhg5.tistory.com/1247">설치 및 설정 (Mac)</a><br/>
     <a href="https://stbhg5.tistory.com/1249">CLI vs. GUI</a><br/>
     <a href="https://stbhg5.tistory.com/1252">Git 전역설정 & 프로젝트 관리 시작하기</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1254">Git에게 맡기지 않을 것들</a><br/>
     <br/><br/>
 
 <h2><h2/>
