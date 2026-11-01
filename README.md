@@ -19,6 +19,11 @@
     <a href="https://stbhg5.tistory.com/1256">변화를 타임캡슐에 담아 묻기</a><br/>
     <a href="https://stbhg5.tistory.com/1259">과거로 돌아가는 세 가지 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1261">나머지 두 방법들</a><br/>
+    <a href="https://stbhg5.tistory.com/1263">GUI 및 AI로 진행해보기</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
