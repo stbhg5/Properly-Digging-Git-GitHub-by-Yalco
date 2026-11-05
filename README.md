@@ -25,6 +25,7 @@
 <h2>4. 차원 넘나들기<h2/>
     <a href="https://stbhg5.tistory.com/1266">여러 브랜치 만들어보기</a><br/>
     <a href="https://stbhg5.tistory.com/1269">브랜치를 합치는 두 가지 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1273">충돌 해결하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
