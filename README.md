@@ -29,8 +29,8 @@
     <a href="https://stbhg5.tistory.com/1278">GUI로 진행해보기</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>5. GitHub 사용하기<h2/>
+    <a href="https://stbhg5.tistory.com/1281">GitHub을 사용하는 이유</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
