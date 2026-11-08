@@ -31,6 +31,7 @@
 
 <h2>5. GitHub 사용하기<h2/>
     <a href="https://stbhg5.tistory.com/1281">GitHub을 사용하는 이유</a><br/>
+    <a href="https://stbhg5.tistory.com/1282">GitHub 시작하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
