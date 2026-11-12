@@ -34,6 +34,7 @@
     <a href="https://stbhg5.tistory.com/1282">GitHub 시작하기</a><br/>
     <a href="https://stbhg5.tistory.com/1285">원격 저장소 사용하기</a><br/>
     <a href="https://stbhg5.tistory.com/1290">push와 pull</a><br/>
+    <a href="https://stbhg5.tistory.com/1293">원격의 브랜치 다루기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
