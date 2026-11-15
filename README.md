@@ -38,8 +38,8 @@
     <a href="https://stbhg5.tistory.com/1296">AI와 GUI로 원격 다루기</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>6. Git 보다 깊이 알기<h2/>
+    <a href="https://stbhg5.tistory.com/1300">Git을 특별하게 만드는 것</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
