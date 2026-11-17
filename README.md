@@ -41,6 +41,7 @@
 <h2>6. Git 보다 깊이 알기<h2/>
     <a href="https://stbhg5.tistory.com/1300">Git을 특별하게 만드는 것</a><br/>
     <a href="https://stbhg5.tistory.com/1304">Git의 3가지 공간</a><br/>
+    <a href="https://stbhg5.tistory.com/1307">HEAD</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
