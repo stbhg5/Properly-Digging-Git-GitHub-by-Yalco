@@ -43,6 +43,11 @@
     <a href="https://stbhg5.tistory.com/1304">Git의 3가지 공간</a><br/>
     <a href="https://stbhg5.tistory.com/1307">HEAD</a><br/>
     <a href="https://stbhg5.tistory.com/1310">fetch vs. pull</a><br/>
+    <a href="https://stbhg5.tistory.com/1313">Git의 각종 설정</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
