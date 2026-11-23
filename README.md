@@ -46,8 +46,8 @@
     <a href="https://stbhg5.tistory.com/1313">Git의 각종 설정</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>7. 프로답게 커밋 관리하기<h2/>
+    <a href="https://stbhg5.tistory.com/1317">어떻게 커밋하는게 좋을까요?</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
