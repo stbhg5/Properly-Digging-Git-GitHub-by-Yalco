@@ -48,6 +48,7 @@
 
 <h2>7. 프로답게 커밋 관리하기<h2/>
     <a href="https://stbhg5.tistory.com/1317">어떻게 커밋하는게 좋을까요?</a><br/>
+    <a href="https://stbhg5.tistory.com/1320">보다 세심하게 스테이징하고 커밋하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
