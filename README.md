@@ -50,6 +50,7 @@
     <a href="https://stbhg5.tistory.com/1317">어떻게 커밋하는게 좋을까요?</a><br/>
     <a href="https://stbhg5.tistory.com/1320">보다 세심하게 스테이징하고 커밋하기</a><br/>
     <a href="https://stbhg5.tistory.com/1323">커밋하기 애매한 변화 치워두기</a><br/>
+    <a href="https://stbhg5.tistory.com/1327">커밋 수정하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
